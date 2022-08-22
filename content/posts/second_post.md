@@ -1,7 +1,7 @@
 ---
 title: "Second Post First Data Engineering Project, Focus: Airflow"
 date: 2022-08-21T23:20:46-05:00
-draft: true
+draft: False
 ---
 **Post is under construction, this is available for testing purposes only.**
 
