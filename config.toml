@@ -80,7 +80,7 @@ languageName = "English"
       # URL of the LOGO
       logo = ""
       # title name
-      name = "Portfolio"
+      name = "Jonathan's Portfolio"
       # you can add extra information before the name (HTML format is supported), such as icons
       pre = ""
       # you can add extra information after the name (HTML format is supported), such as icons
@@ -121,7 +121,7 @@ languageName = "English"
       # LoveIt CHANGED | 0.2.7 title shown in home page (HTML format is supported)
       title = "A future Data Engineer"
       # subtitle shown in home page (HTML format is supported)
-      subtitle = "Hi, Welcome to my portfolio"
+      subtitle = "Hi, Welcome to my Website"
       # whether to use typeit animation for subtitle
       typeit = true
       # whether to show social links
