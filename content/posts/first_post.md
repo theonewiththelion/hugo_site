@@ -1,5 +1,5 @@
 ---
-title: "First Post: Do you want to set an awesome website like this ?"
+title: "Do you want to set an awesome website like this ?"
 date: 2022-08-20T20:34:07-05:00
 draft: False
 ---
