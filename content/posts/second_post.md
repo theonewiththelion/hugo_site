@@ -1,5 +1,5 @@
 ---
-title: "Airflow; ETL"
+title: "Basic ETL using Python, Big Query, Data Studio & Airflow"
 date: 2022-08-21T23:20:46-05:00
 draft: False
 ---
