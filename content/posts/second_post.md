@@ -1,10 +1,8 @@
 ---
-title: "First Data Engineering Project, Focus: Airflow"
+title: "Airflow; ETL"
 date: 2022-08-21T23:20:46-05:00
 draft: False
 ---
-**Post is under construction, this is available for testing purposes only.**
-
     ETL Diagram of my first project
 [![Screen-Shot-2022-08-21-at-11-36-01-PM.png](https://i.postimg.cc/x846jz3w/Screen-Shot-2022-08-21-at-11-36-01-PM.png)](https://postimg.cc/T5nVChS0)
 
@@ -45,6 +43,10 @@ Setting up Task & dependencies
 [![Screen-Shot-2022-09-09-at-1-02-05-PM.png](https://i.postimg.cc/0Q10z2Sk/Screen-Shot-2022-09-09-at-1-02-05-PM.png)](https://postimg.cc/Lqv17Svw)
 
 [![Screen-Shot-2022-09-09-at-1-02-56-PM.png](https://i.postimg.cc/tgjsP1BM/Screen-Shot-2022-09-09-at-1-02-56-PM.png)](https://postimg.cc/k2TMP53Q)
+
+Airflow DAG: etl_workflow Graph
+
+[![Screen-Shot-2022-09-10-at-11-31-12-AM.png](https://i.postimg.cc/DzRhVCwD/Screen-Shot-2022-09-10-at-11-31-12-AM.png)](https://postimg.cc/DWQHLPsd)
 
 
     Big Query Table: Easy connection to Data Studio
