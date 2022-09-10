@@ -1,10 +1,16 @@
 ---
 title: "Basic ETL using Python, Big Query, Data Studio & Airflow"
 date: 2022-08-21T23:20:46-05:00
-draft: False
+draft: false
+author: "Jonathan de Jesus"
+#images: [Users/theonewiththelion/hugo_site/themes/LoveIt/images/Screen Shot 2022-09-09 at 12.40.02 PM.png]
+description: "Here we learn how to use Airflow"
 ---
     ETL Diagram of my first project
-[![Screen-Shot-2022-08-21-at-11-36-01-PM.png](https://i.postimg.cc/x846jz3w/Screen-Shot-2022-08-21-at-11-36-01-PM.png)](https://postimg.cc/T5nVChS0)
+    
+[![Screen-Shot-2022-08-21-at-11-36-01-PM.png](https://i.postimg.cc/x846jz3w/Screen-Shot-2022-08-21-at-11-36-01-PM.png)](https://postimg.cc/T5nVChS0) 
+
+<span class="figcaption_hack">A local duck I photographed recently</span>
 
     Extraction: API containing the crime data from Austin, Texas.
 [![Screen-Shot-2022-09-09-at-12-40-02-PM.png](https://i.postimg.cc/vmLYf3KJ/Screen-Shot-2022-09-09-at-12-40-02-PM.png)](https://postimg.cc/Ty1vXqf0)

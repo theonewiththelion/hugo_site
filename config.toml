@@ -38,7 +38,7 @@ languageName = "English"
     pre = ""
     # you can add extra information after the name (HTML format is supported), such as icons
     post = ""
-    name = "Posts"
+    name = "Posts & Projects"
     url = "/posts/"
     # title will be shown when you hover on this menu link
     title = ""
@@ -113,9 +113,9 @@ languageName = "English"
       # URL of avatar shown in home page
       avatarURL = "https://i.postimg.cc/Px1FPNcB/meh.png"
       # LoveIt CHANGED | 0.2.7 title shown in home page (HTML format is supported)
-      title = "I am Jonathan de Jesus"
+      title = "Hola, I am Jonathan de Jesus"
       # subtitle shown in home page (HTML format is supported)
-      subtitle = "and welcome to my data portfolio"
+      subtitle = "print(\"Welcome to my data portfolio\")"
       # whether to use typeit animation for subtitle
       typeit = true
       # whether to show social links
@@ -125,10 +125,10 @@ languageName = "English"
     # Home page posts
 
     [params.home.posts]
-      enable = true
+      enable = false
       # special amount of posts in each home posts page
-      paginate = 5
+      paginate = 0
       # LoveIt DELETED | 0.2.0 replaced with hiddenFromHomePage in params.page
       # default behavior when you don't set "hiddenFromHomePage" in front matter
-      defaultHiddenFromHomePage = false
+      defaultHiddenFromHomePage = true
 
