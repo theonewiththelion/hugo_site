@@ -1,17 +1,18 @@
 ---
-title: "Data Ingestion"
+title: "Data Ingestion - Coming Soon"
 date: 2022-09-10T11:28:17-05:00
-draft: false
+draft: False
 images: []
 resources:
 - name: "featured-image"
-  src: "featured-image.jpg"
+  src: "api_extraction.png"
 
 lightgallery: true
 
 toc:
   auto: false
 ---
-![Basic configuration preview](content/posts/API Extraction (1).png "Basic configuration preview")
+
+
 
 Coming soon.
