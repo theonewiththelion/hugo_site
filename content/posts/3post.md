@@ -1,5 +1,5 @@
 ---
-title: "Azure ETL: PowerBI - Coming Soon/Work in Progress"
+title: "Azure ETL: PowerBI"
 date: 2022-09-10T11:28:17-05:00
 draft: False
 author: "Jonathan de Jesus"
@@ -202,11 +202,12 @@ def load_animal_shelter(names, outcome, dates):
     - Type of animal and their breed
     - Reason of leaving shelter
     - Sex outcome when leaving the shelter
-    
+
     ![](../Visualization1.png)
 
 2. Select animal type to filter dashboard
 
     ![](../Visualization2.png)
 
+### END
 
